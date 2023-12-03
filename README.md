@@ -1,0 +1,1 @@
+# VND_NZD_exchange_rate
